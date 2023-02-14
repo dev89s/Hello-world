@@ -29,16 +29,18 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Technology</summary>
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></li>
-  </ul>
+    <li><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></li>
+    </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Tools</summary>
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></li>
+    <li><a href="https://code.visualstudio.com/">VSCode</a></li>
+    <li><a href="https://git-scm.com/">Git</a></li>
   </ul>
 </details>
 
